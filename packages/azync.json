@@ -1,0 +1,12 @@
+{
+  "author": "Florian Petautschnig (floscodes)",
+  "tags": [
+    "async"
+  ],
+  "git": "https://github.com/floscodes/azync",
+  "root_file": "/src/root.zig",
+  "description": "a runtime for running asynchronous tasks in Zig",
+  "license": "mit",
+  "updated_at": "2025-06-08T16:03:52Z",
+  "homepage": null
+}
